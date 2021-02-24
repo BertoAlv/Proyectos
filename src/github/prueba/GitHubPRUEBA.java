@@ -9,7 +9,7 @@ public class GitHubPRUEBA {
 
 
     public static void main(String[] args) {
-        System.out.println("Hola Mundo. Como estamos");
+        System.out.println("Hola Mundo!");
     }
     
 }
